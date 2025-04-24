@@ -260,6 +260,11 @@ FROM bottom_5_decline;
 
 The analysis highlights stations with significant ridership increases and decreases in years past. Critically, next steps must include determining if these ridership changes are short-term anomologies or part of sustained patterns. Stations with sustained decline, for example, should be evaluated for service redesign, marketing opportunities, or decommissioning; stations with sustained ridership growth should be evaluated for potential dock expansion and fleet allocation to support growing demand.
 
+<p align="center">
+<img src="absolute_change_chart.png" width="49%" />
+<img src="percentage_change_chart.png" width="49%" />
+</p>
+
 ## Conclusion
 
 This analysis explored peak usage patterns and long-term station performance for the City of Austin's bikeshare program. In 2023, weekday afternoons — especially stations around the UT Austin campus — showed the highest ridership, highlighting a key opportunity to optimize *ready-to-ride* bike availability during these times.
